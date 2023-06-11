@@ -5,6 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Perspective_Transformation_in_Intelligent_Vehicle_Competition" />
+    <orderEntry type="module" module-name="RL_Learning" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

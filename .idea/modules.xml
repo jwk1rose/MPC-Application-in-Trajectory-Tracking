@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MPC-Application-in-Trajectory-Tracking.iml" filepath="$PROJECT_DIR$/.idea/MPC-Application-in-Trajectory-Tracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Perspective_Transformation_in_Intelligent_Vehicle_Competition/.idea/Perspective_Transformation_in_Intelligent_Vehicle_Competition.iml" filepath="$PROJECT_DIR$/../Perspective_Transformation_in_Intelligent_Vehicle_Competition/.idea/Perspective_Transformation_in_Intelligent_Vehicle_Competition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RL_Learning/.idea/RL_Learning.iml" filepath="$PROJECT_DIR$/../RL_Learning/.idea/RL_Learning.iml" />
     </modules>
   </component>
 </project>
